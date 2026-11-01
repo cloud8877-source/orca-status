@@ -1,0 +1,5 @@
+{
+  "global": {
+    "cmd-shift-m": "orca-status.toggle"
+  }
+}
